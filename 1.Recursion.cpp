@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+#include <string>
+#include <vector>
+#include <algorithm>
 //----------------------------1----------------------------
 // Implement function 
 // void printArray(int n){}
